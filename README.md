@@ -1,6 +1,5 @@
 # Catly
-A React application based on the CAT API
-## Work in progress
+A React application based on the CAT API which for each tile displays cat's image, name, breed, origin, average weight, lifespan and their unique trait. 
 
 
 # Getting Started with Create React App
