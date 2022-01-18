@@ -9,7 +9,7 @@ You will find below the different third party libraries used in the project.
 
 | Feature  | Package | Benefits |
 | ------------- | ------------- | ------------- |
-| React  |  `[react](https://github.com/facebook/create-react-app)`  | A declarative, efficient, and flexible JavaScript library for building user interfaces  |
+| React  |  `react${https://github.com/facebook/create-react-app}`  | A declarative, efficient, and flexible JavaScript library for building user interfaces  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 ## Available Scripts
