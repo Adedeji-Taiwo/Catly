@@ -9,8 +9,9 @@ You will find below the different third party libraries used in the project.
 
 | Feature  | Package | Benefits |
 | ------------- | ------------- | ------------- |
-| React  |  `[Create React App](https://github.com/facebook/create-react-app)` | A declarative, efficient, and flexible JavaScript library for building user interfaces |
-| Content Cell  | Content Cell  | Content Cell  |
+| React  |  `react` | A declarative, efficient, and flexible JavaScript library for building user interfaces |
+|  | `react-dom`  | Serves as the entry point of the DOM-related rendering paths  |
+|  | `react-dom`  | Serves as the entry point of the DOM-related rendering paths  |
 
 ## Available Scripts
 
