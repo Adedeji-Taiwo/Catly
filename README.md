@@ -21,6 +21,7 @@ You will find below the different third party libraries used in the project.
 | React-Font Awesome | `fontawesome`  | Friction-less way to use our icons in your React applications |
 | Axios | `axios`  |  Allows for communication with the APIs React project |
 | React-Loader-Spinner | `react-loader-spinner`  | Provides simple React.js spinner component which can be implemented for async wait operation before data load to the view |
+| React-Lazy-Load-Image-Component | `react-lazy-load-image-component`  | Lazy load React components and images |
 
 
 ## Available Scripts
