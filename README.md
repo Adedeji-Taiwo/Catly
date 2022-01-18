@@ -11,7 +11,11 @@ You will find below the different third party libraries used in the project.
 | ------------- | ------------- | ------------- |
 | React  |  `react` | A declarative, efficient, and flexible JavaScript library for building user interfaces |
 |  | `react-dom`  | Serves as the entry point of the DOM-related rendering paths  |
-|  | `react-dom`  | Serves as the entry point of the DOM-related rendering paths  |
+| Router | `react-router`  | Declarative routing for React |
+| React-Font Awesome | `fontawesome`  | friction-less way to use our icons in your React applications |
+| Axios | `axios`  |  Allows for communication with the APIs React project |
+| React-Loader-Spinner | `react-loader-spinner`  | provides simple React.js spinner component which can be implemented for async wait operation before data load to the view |
+
 
 ## Available Scripts
 
