@@ -1,7 +1,13 @@
 # Catly
-A React application that leverages on the CAT API which for each tile displays cat's image, name, breed, origin, average weight, lifespan and their unique trait. 
 
+## Overview
+<!--Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:-->
+A React application that leverages on the CAT API which for each tile displays cat's image, name, breed, origin, average weight, lifespan and their unique trait. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Screenshot](https://github.com/Adedeji-Taiwo/BumbleBee/blob/main/assets/Screenshot%202021-08-31%20100127.png)
+  
+- Live link: https://catly.netlify.app/
 
 ## Third Party Libraries used.
 
