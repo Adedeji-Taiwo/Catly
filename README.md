@@ -3,9 +3,9 @@ A React application that leverages on the CAT API which for each tile displays c
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Third Party Library used.
+## Third Party Library used.
 
-| ##Feature  | ##Package | ##Benefit |
+| ## Feature  | ## Package | ## Benefit |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
