@@ -5,7 +5,7 @@
 A React application that leverages on the CAT API which for each tile displays cat's image, name, breed, origin, average weight, lifespan and their unique trait. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot](https://github.com/Adedeji-Taiwo/Catly/blob/main/static/media/catly.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Catly/blob/main/src/media/images/catly.png)
   
 - Live link: https://catly.netlify.app/
 
